@@ -1,4 +1,4 @@
-module combination-select-api
+module combination-select
 
 go 1.17
 
